@@ -4,7 +4,7 @@
 📧 batujonas.18@gmail.com | 📞 +233 55 682 4608 
 🔗 ORCID: [0009-0008-1676-6584](https://orcid.org/0009-0008-1676-6584) | 🌐 [https://yagah1.github.io/yagah1Mworks]
 ---
-👉 [Click here to view my CV](https://github.com/yagah1-cv.pdf/yagah1)
+[Download my CV](https://github.com/yagahMworks/yagah1/raw/main/cv.pdf)
 **Professional:** Full-time Teacher, Ghana Education Service (GES) - 12 years experience teaching Mathematics and Sciences. B.Ed Mathematics (Valley View University), DBE (Tamale College of Education), Certificate in AI.
 
 **Research Interests:** Number Theory, Combinatorics, Mathematical Physics, Nuclear Shell Model, Recreational Mathematics, History and Anthropology, Science Education.
