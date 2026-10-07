@@ -1,7 +1,7 @@
 ### BATU J. J. YAGAH | Mathematician & Researcher
 **Department of Science and Mathematics, Diabene Senior High Technical School, Sekondi-Takoradi, Ghana**
 # yagah1-cv.pdf
-https://yagah1.github.io/yagah1-cv.pdf
+https://yagah1-cv.pdf
 
 📧 batujonas.18@gmail.com | 📞 +233 55 682 4608 
 🔗 ORCID: [0009-0008-1676-6584](https://orcid.org/0009-0008-1676-6584) | 🌐 [yagah1.github.io/yagah1Mworks](https://yagah1.github.io/yagah1Mworks) | 🎓 [Academia.edu](https://independent.academia.edu/batujjyagah)
